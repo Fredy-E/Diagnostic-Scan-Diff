@@ -1,8 +1,5 @@
-<h1 align="center">Diagnostic Scan Diff</h1>
-
 <p align="center">
-  <strong>Compare two diagnostic scan logs — see what appeared, persisted, or is absent.</strong><br>
-  Local-only in the browser: no uploads, no network requests, no vehicle control.
+  <img src="assets/banner.png" alt="Diagnostic Scan Diff - compare diagnostic scan logs locally" width="100%">
 </p>
 
 <p align="center">
