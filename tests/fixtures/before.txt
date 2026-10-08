@@ -1,0 +1,8 @@
+SYNTHETIC FIXTURE - not a real vehicle scan
+VIN: WVWZZZ1KZ6W000001
+License Plate: SYNTH-000
+Address 01: Engine
+000123 - Synthetic sensor fault
+P0101 - Synthetic code alpha
+Address 03: ABS
+01234 - Synthetic brake controller fault

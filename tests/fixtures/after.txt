@@ -1,0 +1,4 @@
+SYNTHETIC FIXTURE - not a real vehicle scan
+Address 01: Engine
+000123 - Synthetic sensor fault
+P0300 - Synthetic new code

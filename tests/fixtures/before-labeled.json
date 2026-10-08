@@ -1,0 +1,7 @@
+{
+  "faults": [
+    { "module": "01 Engine", "code": "000123", "description": "Synthetic fixture fault" },
+    { "module": "01 Engine", "code": "P0101", "description": "Synthetic fixture code alpha, tag License Plate: SYNTH-000" },
+    { "module": "03 ABS", "code": "01234", "description": "Synthetic brake fault for VIN: WVWZZZ1KZ6W000001" }
+  ]
+}

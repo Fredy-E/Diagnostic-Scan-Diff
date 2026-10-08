@@ -1,0 +1,6 @@
+{
+  "faults": [
+    { "module": "01 Engine", "code": "000123", "description": "Synthetic fixture fault" },
+    { "module": "01 Engine", "code": "P0300", "description": "Synthetic fixture new code" }
+  ]
+}

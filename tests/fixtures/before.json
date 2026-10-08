@@ -1,0 +1,5 @@
+[
+  { "module": "01 Engine", "code": "000123", "description": "Synthetic fixture fault" },
+  { "module": "01 Engine", "code": "P0101", "description": "Synthetic fixture code alpha" },
+  { "module": "03 ABS", "code": "01234", "description": "Synthetic fixture brake fault" }
+]
